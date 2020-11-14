@@ -1,0 +1,8 @@
+{
+  "identifier": "housefullofgarbage.pug",
+  "name": "pug",
+  "organization": "housefullofgarbage",
+  "description": "Syntax highlighting for pug templates",
+  "version": "1.0",
+  "categories": ["languages"]
+}
